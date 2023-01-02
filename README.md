@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadi3106
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...coding +development
 - 🌱 I’m currently learning ...web development
 - 📫 How to reach me ...
 - 
